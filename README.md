@@ -49,7 +49,6 @@ I'm **BubTec**, a tech enthusiast who enjoys working on projects that spark my i
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoph-bubeck-044000265/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/n3roGit)
 [![Thingiverse](https://img.shields.io/badge/Thingiverse-248BFB?style=for-the-badge&logo=thingiverse&logoColor=white)](https://www.thingiverse.com/n3ro88/designs)
 [![Printables](https://img.shields.io/badge/Printables-FA6831?style=for-the-badge&logo=printables&logoColor=white)](https://www.printables.com/@n3ro_586215?lang=de)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BubTec)
