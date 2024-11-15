@@ -63,6 +63,13 @@ I'm **BubTec**, a tech enthusiast who enjoys working on projects that spark my i
   
 ### Show some ❤️ by starring repositories that you find interesting!
 
+<br>
+
+### Support My Work
+
+If you find my projects helpful and want to support their development, consider buying me a coffee! Every contribution helps to keep the projects alive and growing.
+
+[![Buy me a Coffee](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=6ZFSVPZWLLAMC&ssrt=1731670459516)
 </div>
 
 <!-- 
